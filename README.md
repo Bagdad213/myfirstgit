@@ -1,3 +1,1 @@
-# myfirstgit
-
-hello world
+Дэвид гей
